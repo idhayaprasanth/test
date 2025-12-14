@@ -13,3 +13,4 @@ class Add:
 if __name__ == "__main__":
     adder = Add(5, 7)
     adder.display()
+    print("add two variables")
